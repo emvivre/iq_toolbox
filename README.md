@@ -1,5 +1,5 @@
 # iq_toolbox
-This project is a toolbox to make the IQ signal processing as simple as possible by providing a set of program that works on raw data stream either scalar or I/Q signals. This toolbox is compliant with programs that generate I/Q signals like the well-known *RTL-SDL* (http://sdr.osmocom.org/trac/wiki/rtl-sdr) or programs that can both generate / receive I/Q signals like *limesdr_toolbox* (https://github.com/emvivre/limesdr_toolbox).
+This project is a toolbox to process IQ signals as simple as possible by providing a set of program that works on raw data stream either scalar or I/Q signals. This toolbox is compliant with programs that generate I/Q signals like the well-known *RTL-SDL* (http://sdr.osmocom.org/trac/wiki/rtl-sdr) or programs that can both generate / receive I/Q signals like *limesdr_toolbox* (https://github.com/emvivre/limesdr_toolbox).
 
 Originally, the aim of this project is for educational purpose but turns out to run very well to perform I/Q signal processing in realtime. 
 
